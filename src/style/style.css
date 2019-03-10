@@ -1,0 +1,11 @@
+h1 {
+	color: red;
+	background: orange;
+	display: flex;
+}
+.content {
+	height: 100px;
+	width: 100px;
+	background: red;
+	background-image: url("./../assets/img/js.jpg");
+}
